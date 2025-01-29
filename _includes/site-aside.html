@@ -1,0 +1,27 @@
+<aside class="aside  typeset{% if include.align == "left" %}  aside--left{% endif %}">
+
+  {% if page.layout == "post" %}
+    <section class="section  section--related-posts">
+      {% include post-related.html %}
+    </section>
+
+  {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
+    <section class="section  section--description">
+      <img src="img/headshot.jpg" width=50% style="opacity:1">
+      <h3>Contact Me:</h3>
+      <p><a href="mailto:{{site.email}}">{{site.email}}</a></p>
+      <h4>Social:</h4>
+      {% include nav-social.html %}
+      <h4>CV:</h4>
+      {% include nav-cv.html %}
+    </section>
+
+  {% elsif page.layout == "categories" %}
+    <section class="section  section--category-index">
+      <h3>Index</h3>
+      {% include nav-categories.html %}
+    </section>
+
+  {% endif %}
+
+</aside>

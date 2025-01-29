@@ -1,0 +1,74 @@
+---
+title: false
+---
+
+// Background colours
+$backgroundColour: #ffffff;
+$codeBackgroundColour: #f4f4f4;
+$featureBackgroundColour: #eeeeee;
+$accentColour: #05bf85;
+
+// Text colours
+$headingColour: #333333;
+$bodyColour: #555555;
+$linkColour: #05bf85;
+$hoverColour: #008000;
+$focusColour: #fa407a;
+$captionColour: #aaaaaa;
+$white: #ffffff;
+
+// Typography
+$bodytype: (
+  font-family: 'Raleway, sans-serif',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: '"Exo 2", sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+);
+
+$monospacetype: (
+  font-family: 'Menlo, monospace',
+  regular: 400,
+  cap-height: 0.68
+);
+
+// Font import, if you're using a non-standard web font
+@import url('https://fonts.googleapis.com/css?family=Exo+2:400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+
+@import "alembic";
+
+.customfeature {
+    color: rgb(230, 230, 230);
+}
+
+.customfeature h2 {
+    color: rgb(230, 230, 230);
+}
+
+.aside {
+    opacity: 1;
+}
+
+.header {
+    background-color: rgb(51,51,51);
+}
+
+.feature {
+    margin-bottom: 0em;
+}
+
+.main {
+    margin-top: 1.5rem;
+}
+
+.item--current a {
+    opacity: 0.65;
+}
