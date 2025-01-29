@@ -8,7 +8,6 @@ feature_image: "/img/greg.jpg"
 permalink: /publications/
 ---
 
-# Publications
 
 ## 2022
 
