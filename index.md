@@ -43,6 +43,7 @@ or create new tools to help in the process of content moderation?
 # Teaching
 
 ## Harvey Mudd
+- CS 159, Natural Language Processing, Fall 2025
 - CS 70, Data Structures and Program Development, Fall 2024 / Spring 2025
 
 ## Cornell

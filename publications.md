@@ -8,6 +8,9 @@ feature_image: "/img/greg.jpg"
 permalink: /publications/
 ---
 
+## 2025
+
+"Controllable Clustering with LLM-driven Embeddings". Kerria Pang-Naylor, Shivani Manivasagan, Aitong Zhong, Mehak Garg, Nicholas Mondello, Blake Buckner, **Jonathan P. Chang**, Khyati Mahajan, Masoud Hashemi, and Fabio Casati. Proceedings of EMNLP 2025 (Industry Track). \[[PDF](/papers/controllable_clustering.pdf)]
 
 ## 2022
 
