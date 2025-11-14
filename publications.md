@@ -10,7 +10,9 @@ permalink: /publications/
 
 ## 2025
 
-"Controllable Clustering with LLM-driven Embeddings". Kerria Pang-Naylor, Shivani Manivasagan, Aitong Zhong, Mehak Garg, Nicholas Mondello, Blake Buckner, **Jonathan P. Chang**, Khyati Mahajan, Masoud Hashemi, and Fabio Casati. Proceedings of EMNLP 2025 (Industry Track). \[[PDF](/papers/controllable_clustering.pdf)]
+"Controllable Clustering with LLM-driven Embeddings". Kerria Pang-Naylor, Shivani Manivasagan, Amy Zhong, Mehak Garg, Nicholas Mondello, Blake Buckner, **Jonathan P. Chang**, Khyati Mahajan, Masoud Hashemi, and Fabio Casati. Proceedings of EMNLP 2025 (Industry Track). \[[PDF](/papers/controllable_clustering.pdf)]
+
+"Conversations Gone Awry, But Then? Evaluating Conversational Forecasting Models". Son Quoc Tran, Tushaar Gangavarapu, Nicholas Chernogor, **Jonathan P. Chang**, and Cristian Danescu-Niculescu-Mizil. arXiv preprint https://arxiv.org/abs/2507.19470. 2025.
 
 ## 2022
 

@@ -14,6 +14,8 @@ Ever since my papers "Conversations Gone Awry" (ACL '18) and "Trouble on the Hor
 
 If you know of a paper that you think should be included, or you are the author of a new paper or model for forecasting derailment, please contact me so I can add it to the list!
 
+ConvoKit also maintains a [leaderboard for the CGA-CMV and CGA-WIKI derailment forecasting datasets](https://convokit.cornell.edu/documentation/forecaster.html#forecaster-model).
+
 ## List of papers and models (sorted by publication date)
 
 "Conversation Derailment Forecasting with Graph Convolutional Networks".
